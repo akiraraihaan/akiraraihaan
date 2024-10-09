@@ -1,6 +1,9 @@
 # About Me:
-Currently learning how the world works<br>Not afraid to compete, but must to accept failure<br>Keep the cool first, save the panic for later
-
+<ul>
+  <li>Currently learning how the world works</li>
+  <li>Not afraid to compete, but must to accept failure</li>
+  <li>Keep the cool first, save the panic for later</li>
+</ul>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raihaan_ar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-akira-r-6a76b6294/) 
