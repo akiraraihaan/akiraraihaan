@@ -1,7 +1,7 @@
 # About Me:
 <ul>
   <li>Currently learning how the world works</li>
-  <li>Not afraid to compete, but must to accept failure</li>
+  <li>Not afraid to compete, but forced to accept failure</li>
   <li>Keep the cool first, save the panic for later</li>
 </ul>
 
